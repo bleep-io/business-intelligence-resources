@@ -12,6 +12,10 @@ Business Intelligence Links &amp; Resources I thought I'd share with my colleagu
 * Limiting Parameter Values - https://social.msdn.microsoft.com/Forums/en-US/f3f58dc4-2138-4680-8934-d6695d4c416f/typing-in-the-values-in-ssrs-parameter-box
 * SSRS Subscriptions - http://www.sqlservercentral.com/articles/Reporting+Services+(SSRS)/116293/
 * SSRS Visuals Controls Intro - https://www.simple-talk.com/sql/reporting-services/sql-server-reporting-services-basics-the-visual-controls/?utm_source=ssc&utm_medium=publink&utm_content=ssrsvisualcontrols
+* Using HighCharts - http://thinknook.com/convert-ssrs-graphs-to-highcharts-graphs-2012-01-21/
+* SSRS Versioning - http://www.sqlservercentral.com/articles/Reporting+Services+(SSRS)/94119/
+* Multi Option Parameters - https://www.mssqltips.com/sqlservertip/3484/creating-a-multioption-parameter-report-for-sql-server-reporting-services/
+* Dynamic Grouping - http://www.sqlservercentral.com/articles/Reporting+Services+(SSRS)/93760/
 
 ### SSAS
 * SSAS Getting Started - https://www.youtube.com/watch?v=CV2fdPMdkn0&t=52s
@@ -29,6 +33,7 @@ Business Intelligence Links &amp; Resources I thought I'd share with my colleagu
 * Improving SSIS Performance - http://stevestedman.com/2015/08/etl-performance-using-ssis/
 * Incremental Load - http://www.sqlservercentral.com/articles/Integration+Services+(SSIS)/62063/
 * SSIS Logging - http://www.hansmichiels.com/2016/03/25/a-plug-and-play-logging-solution-ssis-series/
+* Execute Package Task - http://blog.sqlauthority.com/2015/02/12/sql-server-the-basics-of-the-execute-package-task-notes-from-the-field-067/
 
 
 ### SQL
@@ -39,7 +44,14 @@ Business Intelligence Links &amp; Resources I thought I'd share with my colleagu
 * The Apply Funtion - http://www.sqlservercentral.com/articles/Stairway+Series/121318/
 * 2NF -  http://www.essentialsql.com/get-ready-to-learn-sql-10-database-second-normal-form-explained-in-simple-english/
 * Data Warehousing - http://microsoftdw.blogspot.co.uk/
+* SQLCop - https://www.simple-talk.com/sql/sql-tools/sql-cop-review/
+* Data Dictionary - https://www.mssqltips.com/sqlservertip/1499/create-a-sql-server-data-dictionary-in-seconds-using-extended-properties/
+* Keyboard Shortcuts - http://www.tech-recipes.com/rx/47195/11-keyboard-shortcuts-every-sql-server-geek-should-know/
+* 
 
 ### Indexing & Performance
 * Understanding Query Plans - https://seniordba.wordpress.com/2014/05/27/understanding-query-execution-plans/
 * Introduction to Indexes - http://www.sqlservercentral.com/articles/Stairway+Series/72284/
+* Improving Performance - https://www.brentozar.com/sql/sql-server-performance-tuning/
+* Columnstore Indexes - http://www.sqlservercentral.com/articles/ColumnStore+Index/127558/
+* 
