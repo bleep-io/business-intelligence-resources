@@ -1,6 +1,6 @@
 # Business Intelligence Resources
 
-Business Intelligence Links &amp; Resources I thought I'd share with my colleagues
+:star: Business Intelligence Links &amp; Resources I thought I'd share with my colleagues :star:
 
 
 ### SSRS
