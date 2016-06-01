@@ -55,3 +55,6 @@
 * Improving Performance - https://www.brentozar.com/sql/sql-server-performance-tuning/
 * Columnstore Indexes - http://www.sqlservercentral.com/articles/ColumnStore+Index/127558/
 * 
+
+### ASP.Net
+* Web Config Transformations - http://www.codeproject.com/Tips/559849/Transform-Web-Config-when-Deploying-a-Web-Applicat
